@@ -92,7 +92,7 @@ Deploy interactive dashboards with Plotly/Dash or Power BI.
 Add automated salary prediction models.
 
 ---
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahmasaber123/Employees_Exploratory-Data-Analysis.git
