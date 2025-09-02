@@ -59,13 +59,16 @@ Using **Python (Pandas, Matplotlib, Seaborn, NumPy)**, the analysis highlights H
 ## Visual Insights
 Some of the key insights are visualized below (charts generated in the notebook):
 
-- Hiring Over The Years 
+## Hiring Over The Years 
+
   ![Work Status](https://github.com/rahmasaber123/Employees_Exploratory-Data-Analysis/blob/main/Hiring_Over_Years.png?raw=true)
 
-- Resigned VS Terminated per department  
+## Resigned VS Terminated per department 
+
   ![Average Salary Department](https://github.com/rahmasaber123/Employees_Exploratory-Data-Analysis/blob/main/Resigned_Terminated.png?raw=true)
 
-- Work status distribution  
+## Work status distribution  
+
   ![Job Title Salary](https://github.com/rahmasaber123/Employees_Exploratory-Data-Analysis/blob/main/work_status.png?raw=true)
 
 
