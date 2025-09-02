@@ -7,7 +7,7 @@ Using **Python (Pandas, Matplotlib, Seaborn, NumPy)**, the analysis highlights H
 ---
 
 ## Tech Stack
-- **Python** 🐍
+- **Python** 
 - **Pandas & NumPy** → Data cleaning & manipulation  
 - **Matplotlib & Seaborn** → Data visualization  
 - **Jupyter Notebook** → Interactive analysis  
