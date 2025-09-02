@@ -73,7 +73,7 @@ Some of the key insights are visualized below (charts generated in the notebook)
 
 
 ---
-## ✅ Results & Findings
+##  Results & Findings
 
 Tech and Data-related departments show higher average salaries.
 
@@ -86,7 +86,7 @@ Performance ratings have limited correlation with salary.
 Remote vs onsite work shows no significant salary difference.
 
 ---
-## 📌 Future Improvements
+##  Future Improvements
 
 Build predictive models for attrition analysis.
 
